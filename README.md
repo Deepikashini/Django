@@ -1,4 +1,4 @@
-# github-proj-101
+# Django 201
 This is my first GitHub project 
 
 
